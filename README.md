@@ -4,6 +4,17 @@ Teste 91 Seguros
 ## Clonar o repositório 
 
 ### Dentro do folder apisegu executar os comandos:
+
+colocar as credenciais para conectar com o banco mysql
+Path do file de config: apisegu/Config/Database.php
+
+Ex:{
+		'hostname' => 'localhost',
+		'username' => 'root',
+		'password' => '',
+		'database' => 'segu91',
+		'DBDriver' => 'MySQLi',
+}
 Instalar dependencias:
 
 composer update
