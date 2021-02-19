@@ -15,6 +15,7 @@ Ex:{
 		'database' => 'segu91',
 		'DBDriver' => 'MySQLi',
 }
+
 Instalar dependencias:
 
 composer update
