@@ -4,6 +4,9 @@ Teste 91 Seguros
 ## Clonar o repositório 
 
 ### Dentro do folder apisegu executar os comandos:
+Instalar dependencias:
+
+composer update
 
 php spark migrate
 
